@@ -1,0 +1,426 @@
+{
+  "Europe": {
+    "Scandinavia": {
+      "countries": [
+        "Denmark",
+        "Norway",
+        "Sweden"
+      ]
+    },
+    "Nordic Countries": {
+      "countries": [
+        "Denmark",
+        "Finland",
+        "Iceland",
+        "Norway",
+        "Sweden"
+      ]
+    },
+    "Baltic States": {
+      "countries": [
+        "Estonia",
+        "Latvia",
+        "Lithuania"
+      ]
+    },
+    "Balkans": {
+      "countries": [
+        "Albania",
+        "Bosnia and Herzegovina",
+        "Bulgaria",
+        "Croatia",
+        "Greece",
+        "Kosovo",
+        "Montenegro",
+        "North Macedonia",
+        "Romania",
+        "Serbia",
+        "Slovenia"
+      ]
+    },
+    "Iberian Peninsula": {
+      "countries": [
+        "Spain",
+        "Portugal",
+        "Andorra"
+      ]
+    },
+    "Italian Peninsula": {
+      "countries": [
+        "Italy",
+        "San Marino",
+        "Vatican City"
+      ]
+    },
+    "British Isles": {
+      "countries": [
+        "United Kingdom",
+        "Ireland"
+      ]
+    },
+    "Low Countries": {
+      "countries": [
+        "Belgium",
+        "Netherlands",
+        "Luxembourg"
+      ]
+    },
+    "Caucasus": {
+      "countries": [
+        "Armenia",
+        "Azerbaijan",
+        "Georgia"
+      ]
+    },
+    "Catalonia": {
+      "countries": [
+        "Spain",
+        "France"
+      ]
+    },
+    "Basque Country": {
+      "countries": [
+        "Spain",
+        "France"
+      ]
+    },
+    "Corsica": {
+      "countries": [
+        "France"
+      ]
+    },
+    "Sardinia": {
+      "countries": [
+        "Italy"
+      ]
+    },
+    "Sicily": {
+      "countries": [
+        "Italy"
+      ]
+    }
+  },
+
+  "Asia": {
+    "Middle East": {
+      "countries": [
+        "Bahrain",
+        "Cyprus",
+        "Egypt",
+        "Iran",
+        "Iraq",
+        "Israel",
+        "Jordan",
+        "Kuwait",
+        "Lebanon",
+        "Oman",
+        "Palestine",
+        "Qatar",
+        "Saudi Arabia",
+        "Syria",
+        "Turkey",
+        "United Arab Emirates",
+        "Yemen"
+      ]
+    },
+    "Levant": {
+      "countries": [
+        "Israel",
+        "Jordan",
+        "Lebanon",
+        "Palestine",
+        "Syria"
+      ]
+    },
+    "Arabian Peninsula": {
+      "countries": [
+        "Saudi Arabia",
+        "Yemen",
+        "Oman",
+        "United Arab Emirates",
+        "Qatar",
+        "Kuwait",
+        "Bahrain"
+      ]
+    },
+    "Anatolia": {
+      "countries": [
+        "Turkey"
+      ]
+    },
+    "South Asia": {
+      "countries": [
+        "India",
+        "Pakistan",
+        "Bangladesh",
+        "Sri Lanka",
+        "Nepal",
+        "Bhutan",
+        "Maldives",
+        "Afghanistan"
+      ]
+    },
+    "Punjab": {
+      "countries": [
+        "India",
+        "Pakistan"
+      ]
+    },
+    "Bengal": {
+      "countries": [
+        "India",
+        "Bangladesh"
+      ]
+    },
+    "Kashmir": {
+      "countries": [
+        "India",
+        "Pakistan",
+        "China"
+      ]
+    },
+    "Deccan": {
+      "countries": [
+        "India"
+      ]
+    },
+    "East Asia": {
+      "countries": [
+        "China",
+        "Japan",
+        "South Korea",
+        "North Korea",
+        "Mongolia",
+        "Taiwan"
+      ]
+    },
+    "Tibet": {
+      "countries": [
+        "China",
+        "India",
+        "Nepal",
+        "Bhutan"
+      ]
+    },
+    "Southeast Asia (Mainland)": {
+      "countries": [
+        "Thailand",
+        "Vietnam",
+        "Laos",
+        "Cambodia",
+        "Myanmar"
+      ]
+    },
+    "Maritime Southeast Asia": {
+      "countries": [
+        "Indonesia",
+        "Malaysia",
+        "Singapore",
+        "Philippines",
+        "Brunei",
+        "Timor-Leste"
+      ]
+    }
+  },
+
+  "Africa": {
+    "Maghreb": {
+      "countries": [
+        "Morocco",
+        "Algeria",
+        "Tunisia",
+        "Libya",
+        "Mauritania"
+      ]
+    },
+    "Sahel": {
+      "countries": [
+        "Senegal",
+        "Mauritania",
+        "Mali",
+        "Burkina Faso",
+        "Niger",
+        "Nigeria",
+        "Chad",
+        "Sudan"
+      ]
+    },
+    "Horn of Africa": {
+      "countries": [
+        "Djibouti",
+        "Eritrea",
+        "Ethiopia",
+        "Somalia"
+      ]
+    },
+    "West Africa": {
+      "countries": [
+        "Nigeria",
+        "Ghana",
+        "Ivory Coast",
+        "Senegal",
+        "Mali",
+        "Burkina Faso",
+        "Niger",
+        "Togo",
+        "Benin",
+        "Guinea",
+        "Sierra Leone",
+        "Liberia",
+        "Gambia"
+      ]
+    },
+    "East Africa": {
+      "countries": [
+        "Kenya",
+        "Tanzania",
+        "Uganda",
+        "Rwanda",
+        "Burundi",
+        "Somalia",
+        "Ethiopia",
+        "Eritrea"
+      ]
+    },
+    "Central Africa": {
+      "countries": [
+        "Cameroon",
+        "Central African Republic",
+        "Chad",
+        "Republic of the Congo",
+        "Democratic Republic of the Congo",
+        "Gabon",
+        "Equatorial Guinea"
+      ]
+    },
+    "Southern Africa": {
+      "countries": [
+        "South Africa",
+        "Namibia",
+        "Botswana",
+        "Zimbabwe",
+        "Zambia",
+        "Mozambique",
+        "Lesotho",
+        "Eswatini"
+      ]
+    },
+    "Abyssinia (Ethiopian Highlands)": {
+      "countries": [
+        "Ethiopia",
+        "Eritrea"
+      ]
+    }
+  },
+
+  "Americas": {
+    "Anglo America": {
+      "countries": [
+        "United States",
+        "Canada"
+      ]
+    },
+    "Latin America": {
+      "countries": [
+        "Mexico",
+        "Guatemala",
+        "Belize",
+        "Honduras",
+        "El Salvador",
+        "Nicaragua",
+        "Costa Rica",
+        "Panama",
+        "Colombia",
+        "Venezuela",
+        "Ecuador",
+        "Peru",
+        "Bolivia",
+        "Chile",
+        "Argentina",
+        "Uruguay",
+        "Paraguay",
+        "Brazil"
+      ]
+    },
+    "Caribbean": {
+      "countries": [
+        "Cuba",
+        "Haiti",
+        "Dominican Republic",
+        "Jamaica",
+        "Trinidad and Tobago",
+        "Barbados",
+        "Bahamas",
+        "Saint Lucia",
+        "Grenada",
+        "Saint Vincent and the Grenadines",
+        "Antigua and Barbuda",
+        "Dominica",
+        "Saint Kitts and Nevis"
+      ]
+    },
+    "Central America": {
+      "countries": [
+        "Guatemala",
+        "Belize",
+        "Honduras",
+        "El Salvador",
+        "Nicaragua",
+        "Costa Rica",
+        "Panama"
+      ]
+    },
+    "Andean Region": {
+      "countries": [
+        "Colombia",
+        "Ecuador",
+        "Peru",
+        "Bolivia",
+        "Chile",
+        "Venezuela"
+      ]
+    },
+    "Southern Cone": {
+      "countries": [
+        "Argentina",
+        "Chile",
+        "Uruguay",
+        "Paraguay"
+      ]
+    }
+  },
+
+  "Oceania": {
+    "Australasia": {
+      "countries": [
+        "Australia",
+        "New Zealand"
+      ]
+    },
+    "Melanesia": {
+      "countries": [
+        "Papua New Guinea",
+        "Fiji",
+        "Solomon Islands",
+        "Vanuatu"
+      ]
+    },
+    "Micronesia": {
+      "countries": [
+        "Palau",
+        "Federated States of Micronesia",
+        "Marshall Islands",
+        "Nauru",
+        "Kiribati"
+      ]
+    },
+    "Polynesia": {
+      "countries": [
+        "Samoa",
+        "Tonga",
+        "Tuvalu",
+        "New Zealand"
+      ]
+    }
+  }
+}

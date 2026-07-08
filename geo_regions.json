@@ -1,0 +1,513 @@
+{
+  "Africa": {
+    "North Africa": {
+      "countries": [
+        "Algeria",
+        "Egypt",
+        "Libya",
+        "Morocco",
+        "Sudan",
+        "Tunisia",
+        "Western Sahara"
+      ]
+    },
+    "Maghreb": {
+      "countries": [
+        "Algeria",
+        "Libya",
+        "Mauritania",
+        "Morocco",
+        "Tunisia",
+        "Western Sahara"
+      ]
+    },
+    "Sahel": {
+      "countries": [
+        "Burkina Faso",
+        "Cameroon",
+        "Chad",
+        "Eritrea",
+        "Gambia",
+        "Mali",
+        "Mauritania",
+        "Niger",
+        "Nigeria",
+        "Senegal",
+        "Sudan"
+      ]
+    },
+    "Horn of Africa": {
+      "countries": [
+        "Djibouti",
+        "Eritrea",
+        "Ethiopia",
+        "Somalia"
+      ]
+    },
+    "East Africa": {
+      "countries": [
+        "Burundi",
+        "Comoros",
+        "Djibouti",
+        "Eritrea",
+        "Ethiopia",
+        "Kenya",
+        "Madagascar",
+        "Malawi",
+        "Mauritius",
+        "Mozambique",
+        "Rwanda",
+        "Seychelles",
+        "Somalia",
+        "South Sudan",
+        "Tanzania",
+        "Uganda",
+        "Zambia",
+        "Zimbabwe"
+      ]
+    },
+    "Central Africa": {
+      "countries": [
+        "Angola",
+        "Cameroon",
+        "Central African Republic",
+        "Chad",
+        "Republic of the Congo",
+        "Democratic Republic of the Congo",
+        "Equatorial Guinea",
+        "Gabon",
+        "Sao Tome and Principe"
+      ]
+    },
+    "West Africa": {
+      "countries": [
+        "Benin",
+        "Burkina Faso",
+        "Cape Verde",
+        "Cote d'Ivoire",
+        "Gambia",
+        "Ghana",
+        "Guinea",
+        "Guinea-Bissau",
+        "Liberia",
+        "Mali",
+        "Mauritania",
+        "Niger",
+        "Nigeria",
+        "Senegal",
+        "Sierra Leone",
+        "Togo"
+      ]
+    },
+    "Southern Africa": {
+      "countries": [
+        "Angola",
+        "Botswana",
+        "Eswatini",
+        "Lesotho",
+        "Mozambique",
+        "Namibia",
+        "South Africa",
+        "Zambia",
+        "Zimbabwe"
+      ]
+    },
+    "Great Lakes Region": {
+      "countries": [
+        "Burundi",
+        "Democratic Republic of the Congo",
+        "Kenya",
+        "Rwanda",
+        "Tanzania",
+        "Uganda"
+      ]
+    },
+    "Congo Basin": {
+      "countries": [
+        "Cameroon",
+        "Central African Republic",
+        "Republic of the Congo",
+        "Democratic Republic of the Congo",
+        "Equatorial Guinea",
+        "Gabon"
+      ]
+    },
+    "Nile Valley": {
+      "countries": [
+        "Burundi",
+        "Democratic Republic of the Congo",
+        "Egypt",
+        "Eritrea",
+        "Ethiopia",
+        "Kenya",
+        "Rwanda",
+        "South Sudan",
+        "Sudan",
+        "Tanzania",
+        "Uganda"
+      ]
+    }
+  },
+  "Europe": {
+    "Scandinavia": {
+      "countries": [
+        "Denmark",
+        "Norway",
+        "Sweden"
+      ]
+    },
+    "Nordic Countries": {
+      "countries": [
+        "Denmark",
+        "Finland",
+        "Iceland",
+        "Norway",
+        "Sweden"
+      ]
+    },
+    "Baltic States": {
+      "countries": [
+        "Estonia",
+        "Latvia",
+        "Lithuania"
+      ]
+    },
+    "Balkans": {
+      "countries": [
+        "Albania",
+        "Bosnia and Herzegovina",
+        "Bulgaria",
+        "Croatia",
+        "Greece",
+        "Kosovo",
+        "Montenegro",
+        "North Macedonia",
+        "Romania",
+        "Serbia",
+        "Slovenia"
+      ]
+    },
+    "Iberian Peninsula": {
+      "countries": [
+        "Andorra",
+        "Portugal",
+        "Spain"
+      ]
+    },
+    "Italian Peninsula": {
+      "countries": [
+        "Italy",
+        "San Marino",
+        "Vatican City"
+      ]
+    },
+    "British Isles": {
+      "countries": [
+        "Ireland",
+        "United Kingdom"
+      ]
+    },
+    "Low Countries": {
+      "countries": [
+        "Belgium",
+        "Luxembourg",
+        "Netherlands"
+      ]
+    },
+    "Caucasus": {
+      "countries": [
+        "Armenia",
+        "Azerbaijan",
+        "Georgia"
+      ]
+    }
+  },
+  "Asia": {
+    "Middle East": {
+      "countries": [
+        "Bahrain",
+        "Cyprus",
+        "Egypt",
+        "Iran",
+        "Iraq",
+        "Israel",
+        "Jordan",
+        "Kuwait",
+        "Lebanon",
+        "Oman",
+        "Palestine",
+        "Qatar",
+        "Saudi Arabia",
+        "Syria",
+        "Turkey",
+        "United Arab Emirates",
+        "Yemen"
+      ]
+    },
+    "Levant": {
+      "countries": [
+        "Israel",
+        "Jordan",
+        "Lebanon",
+        "Palestine",
+        "Syria"
+      ]
+    },
+    "Arabian Peninsula": {
+      "countries": [
+        "Bahrain",
+        "Kuwait",
+        "Oman",
+        "Qatar",
+        "Saudi Arabia",
+        "United Arab Emirates",
+        "Yemen"
+      ]
+    },
+    "Anatolia": {
+      "countries": [
+        "Turkey"
+      ]
+    },
+    "Mesopotamia": {
+      "countries": [
+        "Iraq",
+        "Kuwait",
+        "Syria",
+        "Turkey"
+      ]
+    },
+    "South Asia": {
+      "countries": [
+        "Afghanistan",
+        "Bangladesh",
+        "Bhutan",
+        "India",
+        "Maldives",
+        "Nepal",
+        "Pakistan",
+        "Sri Lanka"
+      ]
+    },
+    "Southeast Asia": {
+      "countries": [
+        "Brunei",
+        "Cambodia",
+        "Indonesia",
+        "Laos",
+        "Malaysia",
+        "Myanmar",
+        "Philippines",
+        "Singapore",
+        "Thailand",
+        "Timor-Leste",
+        "Vietnam"
+      ]
+    },
+    "East Asia": {
+      "countries": [
+        "China",
+        "Japan",
+        "Mongolia",
+        "North Korea",
+        "South Korea",
+        "Taiwan"
+      ]
+    },
+    "Central Asia": {
+      "countries": [
+        "Kazakhstan",
+        "Kyrgyzstan",
+        "Tajikistan",
+        "Turkmenistan",
+        "Uzbekistan"
+      ]
+    },
+    "Indochina": {
+      "countries": [
+        "Cambodia",
+        "Laos",
+        "Myanmar",
+        "Thailand",
+        "Vietnam"
+      ]
+    },
+    "Malay Peninsula": {
+      "countries": [
+        "Malaysia",
+        "Singapore",
+        "Thailand"
+      ]
+    }
+  },
+  "Oceania": {
+    "Australasia": {
+      "countries": [
+        "Australia",
+        "New Zealand"
+      ]
+    },
+    "Melanesia": {
+      "countries": [
+        "Fiji",
+        "Papua New Guinea",
+        "Solomon Islands",
+        "Vanuatu"
+      ]
+    },
+    "Micronesia": {
+      "countries": [
+        "Federated States of Micronesia",
+        "Kiribati",
+        "Marshall Islands",
+        "Nauru",
+        "Palau"
+      ]
+    },
+    "Polynesia": {
+      "countries": [
+        "New Zealand",
+        "Samoa",
+        "Tonga",
+        "Tuvalu"
+      ]
+    }
+  },
+  "North America": {
+    "Caribbean": {
+      "countries": [
+        "Antigua and Barbuda",
+        "Bahamas",
+        "Barbados",
+        "Cuba",
+        "Dominica",
+        "Dominican Republic",
+        "Grenada",
+        "Haiti",
+        "Jamaica",
+        "Saint Kitts and Nevis",
+        "Saint Lucia",
+        "Saint Vincent and the Grenadines",
+        "Trinidad and Tobago"
+      ]
+    },
+    "Greater Antilles": {
+      "countries": [
+        "Cuba",
+        "Dominican Republic",
+        "Haiti",
+        "Jamaica"
+      ]
+    },
+    "Lesser Antilles": {
+      "countries": [
+        "Antigua and Barbuda",
+        "Barbados",
+        "Dominica",
+        "Grenada",
+        "Saint Kitts and Nevis",
+        "Saint Lucia",
+        "Saint Vincent and the Grenadines",
+        "Trinidad and Tobago"
+      ]
+    },
+    "Central America": {
+      "countries": [
+        "Belize",
+        "Costa Rica",
+        "El Salvador",
+        "Guatemala",
+        "Honduras",
+        "Nicaragua",
+        "Panama"
+      ]
+    },
+    "Mesoamerica": {
+      "countries": [
+        "Belize",
+        "Costa Rica",
+        "El Salvador",
+        "Guatemala",
+        "Honduras",
+        "Mexico",
+        "Nicaragua"
+      ]
+    }
+  },
+  "South America": {
+    "Andes": {
+      "countries": [
+        "Argentina",
+        "Bolivia",
+        "Chile",
+        "Colombia",
+        "Ecuador",
+        "Peru",
+        "Venezuela"
+      ]
+    },
+    "Amazon Basin": {
+      "countries": [
+        "Bolivia",
+        "Brazil",
+        "Colombia",
+        "Ecuador",
+        "Guyana",
+        "Peru",
+        "Suriname",
+        "Venezuela"
+      ]
+    },
+    "Gran Chaco": {
+      "countries": [
+        "Argentina",
+        "Bolivia",
+        "Paraguay"
+      ]
+    },
+    "Patagonia": {
+      "countries": [
+        "Argentina",
+        "Chile"
+      ]
+    },
+    "Guianas": {
+      "countries": [
+        "Guyana",
+        "Suriname"
+      ]
+    },
+    "Southern Cone": {
+      "countries": [
+        "Argentina",
+        "Chile",
+        "Uruguay"
+      ]
+    },
+    "Altiplano": {
+      "countries": [
+        "Argentina",
+        "Bolivia",
+        "Chile",
+        "Peru"
+      ]
+    }
+  },
+  "Polar": {
+    "Arctic": {
+      "countries": [
+        "Canada",
+        "Denmark",
+        "Finland",
+        "Iceland",
+        "Norway",
+        "Russia",
+        "Sweden",
+        "United States"
+      ]
+    },
+    "Antarctic": {
+      "countries": []
+    }
+  }
+}
